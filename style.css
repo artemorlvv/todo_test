@@ -134,6 +134,9 @@ span {
     html {
         height: auto;
     }
+    #todo {
+        margin-top: 50px;
+    }
     #did {
         margin-bottom: 50px;
     }
